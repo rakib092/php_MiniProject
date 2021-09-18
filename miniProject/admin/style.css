@@ -1,0 +1,19 @@
+.error{
+    color: red;
+    font-weight: 700px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer-area{
+    background:#3ca9e8;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-area p{
+    margin: 0;
+}
+.hr{
+    border: 2px solid black;
+}
+.content{
+    min-height: 550px;
+}
